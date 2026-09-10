@@ -1,7 +1,5 @@
 # Software Design Pattern
 
-![cert)](_IMAGES/certificate.png)
-
 This repository contains a curated collection of lessons, explanations, and examples covering the major software design patterns. Each folder or file introduces a specific pattern, its purpose, how it works, and practical scenarios where it should be used.
 
 Use this repository as a learning guide or reference for understanding and applying design patterns in real-world software projects.
@@ -35,3 +33,6 @@ They help simplify relationships, reduce complexity, and improve flexibility bet
 
 These patterns focus on communication and responsibility between objects.
 They describe how objects collaborate, share information, and delegate tasks within the system.
+
+### Certificate
+![cert)](_IMAGES/certificate.png)
