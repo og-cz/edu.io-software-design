@@ -1,5 +1,7 @@
 # Software Design Pattern
 
+![cert)](_IMAGES/certificate.png)
+
 This repository contains a curated collection of lessons, explanations, and examples covering the major software design patterns. Each folder or file introduces a specific pattern, its purpose, how it works, and practical scenarios where it should be used.
 
 Use this repository as a learning guide or reference for understanding and applying design patterns in real-world software projects.
